@@ -15,6 +15,7 @@ cask 'virtualbox'
 brew 'pandoc'
 cask 'anvil'
 cask 'dbeaver-community'
+cask 'postman'
 
 EOF
 

@@ -1,4 +1,4 @@
-jasonelston dotfiles
+JeffHanru dotfiles
 ===============
 
 I use [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) and
@@ -23,7 +23,7 @@ Install
 
 Clone onto my laptop:
 
-    git clone https://github.com/jasonelston/dotfiles.git ~/dotfiles-local
+    git clone https://github.com/JeffHanru/dotfiles.git ~/dotfiles-local
     git clone https://github.com/thoughtbot/dotfiles.git ~/dotfiles
 
 Install:

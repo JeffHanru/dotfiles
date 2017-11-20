@@ -1,11 +1,7 @@
 brew bundle --file=- <<EOF
 # Productivity
 cask 'spectacle'
-cask 'nvalt'
-cask 'fantastical'
-cask 'skype'
-cask 'omnigraffle'
-cask 'monodraw'
+cask 'skitch'
 
 # Development
 brew 'git-flow'

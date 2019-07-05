@@ -1,9 +1,12 @@
 #!/usr/bin/env zsh
 
 # PATH recommended by brew doctor
-export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
+# export PATH="/usr/local/bin:/usr/local/sbin:$PATH"
 
 # Golang path setup
-export GOPATH=$HOME/go
+export GOPATH=$HOME/code/go
 export PATH=$PATH:$GOPATH/bin
 export PATH="$HOME/.bin:$PATH"
+
+# force usage of homebrew version of openssl on High Sierra
+export PATH="/usr/local/opt/openssl/bin:$PATH"
